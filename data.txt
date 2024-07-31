@@ -1,0 +1,18 @@
+{
+  "propertyType": "residential",
+  "location": "123 Maple Street, Springfield",
+  "rent": 1500,
+  "size": "2Bhk",
+  "area": 1200,
+  "face": "East",
+  "buildingType": "Apartment",
+  "floor": 3,
+  "yearsOfConstruction": 5,
+  "advance": 3000,
+  "photos": [
+    "http://example.com/photo1.jpg",
+    "http://example.com/photo2.jpg"
+  ],
+  "innerFacilities": "Air Conditioning, Heating, Internet",
+  "nearbyFacilities": "School, Hospital, Supermarket"
+}

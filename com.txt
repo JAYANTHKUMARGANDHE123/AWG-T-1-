@@ -1,0 +1,18 @@
+{
+  "propertyType": "commercial",
+  "location": "456 Elm Street, Metropolis",
+  "rent": 2500,
+  "size": "Office",
+  "area": 2000,
+  "face": "North",
+  "buildingType": "Independent",
+  "floor": 0,
+  "yearsOfConstruction": 10,
+  "advance": 5000,
+  "photos": [
+    "http://example.com/photo3.jpg",
+    "http://example.com/photo4.jpg"
+  ],
+  "innerFacilities": "Conference Room, Central Heating, Wi-Fi",
+  "nearbyFacilities": "Bus Stop, Metro Station, Restaurant"
+}
