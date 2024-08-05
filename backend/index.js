@@ -3,7 +3,6 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const path = require('path');
-
 const app = express();
 const PORT = process.env.PORT || 5000;
 
@@ -48,5 +47,3 @@ app.get('/locations/:cityId', (req, res) => {
   const cityId = req.params.cityId;
   res.json(locations[cityId] || []);
 });
-
-
